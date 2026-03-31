@@ -1,2 +1,2 @@
 # Final-Project-Academica
-Final project
+EXCEL, SQL, POWER BI, PYTHON
